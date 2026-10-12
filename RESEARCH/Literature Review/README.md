@@ -7,7 +7,8 @@ vagy Teamsor Teams
 
 Explore · a ciklus első lépéseExplore · the first step of the loop
 
-# Mielőtt építetek, *nézzétek meg, mit tud már a tudomány.*Before you build, *find out what science already knows.*
+# Mielőtt építetek, *nézzétek meg, mit tud már a tudomány*.
+# Before you build, *find out what science already knows*.
 
 A szakirodalomkutatás (literature review) a témához kapcsolódó publikációk, módszerek, adatszettek, nyílt forráskódok és projektek rendszerezett felkutatása, kritikus értékelése és szintézise. Ebből derül ki a tudomány jelenlegi állása (state of the art), és ebből látszik, hol tud a csapatotok újat hozzátenni.A literature review is the systematic search, critical appraisal and synthesis of publications, methods, datasets, open-source code and projects related to your topic. It establishes the state of the art and shows where your team can add something new.
 
